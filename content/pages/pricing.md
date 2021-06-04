@@ -26,7 +26,7 @@ sections:
             style: secondary
       - title: Servicios
         subtitle: para empresas
-        price: $49/m
+        price: Empresas
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
