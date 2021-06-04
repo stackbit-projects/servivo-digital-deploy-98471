@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Serrvcios
+      - title: Servicios
         subtitle: para pymes y emprendedores
         price: Pymes
         details: |
