@@ -23,7 +23,7 @@ sections:
 
           Construcción de eCommrce
         actions:
-          - label: Order Now
+          - label: CONTÁCTANOS
             url: /signup
             style: secondary
       - title: Servicios
