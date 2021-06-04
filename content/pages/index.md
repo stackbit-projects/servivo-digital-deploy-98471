@@ -12,7 +12,7 @@ sections:
 
       ](https://servivo-digital-67ac4.netlify.app/pricing/)
     actions:
-      - label: Learn More
+      - label: CONTÁCTANOS
         url: /features
         style: primary
   - section_id: features
