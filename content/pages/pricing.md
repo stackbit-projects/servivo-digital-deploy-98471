@@ -4,7 +4,6 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Pricing Plans
     subtitle: >-
       Agenda una reunión con nosotros: te ayudamos a pensar y construir una
       solución para tu negocio.
