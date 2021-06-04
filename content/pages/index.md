@@ -35,10 +35,11 @@ sections:
       - title: Construcción de eCommerce
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Construimos pensando en tu negocio. Nos encargamos de diseñar las
+          **mejores experiencias para tus clientes**: desde la forma en la que
+          pagas, hasta la llegada del pedido a la puerta de su hogar.
+          Construimos un **eCommerce listo para tener éxito.**
         actions:
           - label: VER MÁS
             url: /features
