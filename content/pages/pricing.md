@@ -46,7 +46,7 @@ sections:
           <!---->
         highlight: true
         actions:
-          - label: Order Now
+          - label: CONTÁCTANOS
             url: /signup
             style: primary
       - title: Servicios
