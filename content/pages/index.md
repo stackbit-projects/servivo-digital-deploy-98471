@@ -24,10 +24,7 @@ sections:
       - title: Creación de estrategias y modelos de negocios digitales.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: "Plantearemos un modelo de acuerdo con la **realidad actual y las necesidades de tu negocio**, permitiendo flexibilidad, eficiencia e innovación.\_\n"
         actions:
           - label: Learn More
             url: /features
