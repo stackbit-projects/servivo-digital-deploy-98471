@@ -69,7 +69,7 @@ sections:
     background: gray
     title: Preguntas frecuentes
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: ¿Cómo puedo agendar una consultoría?
         answer: >
           La primer sesión de consultoría es totalmente gratis. Puedes agendar
           tu sesión escribiendo un mensaje de WhatsApp: 5619878301
