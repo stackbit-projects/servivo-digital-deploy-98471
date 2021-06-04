@@ -27,8 +27,13 @@ sections:
       - title: Servicios
         subtitle: para empresas
         price: Empresas
-        details: |+
-          *   Inyección de tecnología al negocio
+        details: |
+
+
+          Transformación Digital
+
+
+          Inyección de tecnología al negocio
 
           *   Diseño y construcción de eCommerce
 
@@ -37,7 +42,6 @@ sections:
           *   Auditoría y Consultoría
 
           <!---->
-
         highlight: true
         actions:
           - label: Order Now
