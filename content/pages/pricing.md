@@ -11,21 +11,15 @@ sections:
         subtitle: For small businesses
         price: $5/m
         details: |
-
-
           Plataformas Digitales
 
-          *
+           Marketing Digital
 
-              *   Marketing Digital
+           Construcción de soluciones web
 
-          *
+          Construcción de soluciones móviles
 
-              *   Construcción de soluciones web
-
-          *   Construcción de soluciones móviles
-
-          *   Construcción de eCommrce
+          Construcción de eCommrce
         actions:
           - label: Order Now
             url: /signup
