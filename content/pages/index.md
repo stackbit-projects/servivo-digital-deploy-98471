@@ -50,10 +50,7 @@ sections:
       - title: Desarrollo de Tecnología a la medida
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: "Construcción de productos digitales sobre **necesidades del negocio** y sus clientes. Más que una App o una plataforma web genérica.\_\n"
         actions:
           - label: VER MÁS
             url: /features
