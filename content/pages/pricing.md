@@ -63,7 +63,7 @@ sections:
 
           *   Construcción de tu propio equipo de tecnología
         actions:
-          - label: Order Now
+          - label: CONTÁCTANOS
             url: /signup
             style: secondary
   - section_id: faq
