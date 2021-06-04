@@ -50,11 +50,12 @@ sections:
       - title: Servicios
         subtitle: para empresas nuevas o en el mercado
         price: Consultoría
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: >
+          *
+
+          *   *   Construcción de tecnología centrada en negocio*   Construcción
+          de tu propio equipo de tecnología
+              Transformación digital
         actions:
           - label: Order Now
             url: /signup
