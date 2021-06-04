@@ -81,7 +81,7 @@ sections:
           Durante la primer sesión de consultoría hacemos una planeación de los
           diferentes sprints y etapas del proyecto. Siempre colocamos una fecha
           de entrega de los diferentes hitos del proyecto (En promedio 60 días)
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+      - question: ¿Me pueden ayudar a saber lo que necesito?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
