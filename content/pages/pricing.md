@@ -77,10 +77,10 @@ sections:
 
           ### &#xA;
       - question: ¿Cuánto tiempo dura la entrega del proyecto?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: >
+          Durante la primer sesión de consultoría hacemos una planeación de los
+          diferentes sprints y etapas del proyecto. Siempre colocamos una fecha
+          de entrega de los diferentes hitos del proyecto (En promedio 60 días)
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
