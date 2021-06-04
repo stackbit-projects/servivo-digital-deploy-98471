@@ -86,7 +86,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: ¿Listo para transformar el futuro con nosotros?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Construyamos un negocio que genere impacto y hagamos con emprendimiento
+      una gran transformación en Latinoamérica.
     actions:
       - label: Get Started
         url: /signup
