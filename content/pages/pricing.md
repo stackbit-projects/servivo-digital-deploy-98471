@@ -47,7 +47,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: Servicios
         subtitle: For very large businesses
         price: Consultoría
         details: |-
