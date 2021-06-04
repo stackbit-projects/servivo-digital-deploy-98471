@@ -62,9 +62,7 @@ sections:
     type: section_reviews
     background: white
     title: Lo que nuestros clientes dicen
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Powered by service
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
