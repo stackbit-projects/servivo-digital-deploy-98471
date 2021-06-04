@@ -21,7 +21,7 @@ sections:
     title: Conoce nuestros servicios
     subtitle: Servicios para transformar tu negocio
     features:
-      - title: The Best Feature of Your Services
+      - title: Creación de estrategias y modelos de negocios digitales.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
