@@ -4,7 +4,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    subtitle: >-
+    subtitle: >- Servicios
       Agenda una reunión con nosotros: te ayudamos a pensar y construir una
       solución para tu negocio.
     pricing_plans:
