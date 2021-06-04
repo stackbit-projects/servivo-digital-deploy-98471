@@ -5,7 +5,9 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      Agenda una reunión con nosotros: te ayudamos a pensar y construir una
+      solución para tu negocio.
     pricing_plans:
       - title: Servicios
         subtitle: para pymes y emprendedores
