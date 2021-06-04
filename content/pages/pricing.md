@@ -25,7 +25,7 @@ sections:
             url: /signup
             style: secondary
       - title: Servicios
-        subtitle: For medium-sized businesses
+        subtitle: para empresas
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
