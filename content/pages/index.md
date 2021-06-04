@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/fold-no-1-e1620752205974-619x630.jpeg
     image_alt: App preview
     title: Somos expertos en construcción de negocios digitales.
     content: >
