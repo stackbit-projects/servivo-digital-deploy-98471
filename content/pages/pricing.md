@@ -27,12 +27,17 @@ sections:
       - title: Servicios
         subtitle: para empresas
         price: Empresas
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |+
+          *   Inyección de tecnología al negocio
+
+          *   Diseño y construcción de eCommerce
+
+          *   Design Thinking
+
+          *   Auditoría y Consultoría
+
+          <!---->
+
         highlight: true
         actions:
           - label: Order Now
