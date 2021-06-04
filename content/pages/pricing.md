@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Servicios
 sections:
   - section_id: pricing
     type: section_pricing
