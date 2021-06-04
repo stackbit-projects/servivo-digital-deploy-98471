@@ -76,7 +76,7 @@ sections:
 
 
           ### &#xA;
-      - question: Aliquam eget purus ante?
+      - question: ¿Cuánto tiempo dura la entrega del proyecto?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
