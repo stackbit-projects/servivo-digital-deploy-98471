@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Somos expertos en construcción de negocios digitales.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Te acompañamos en el proceso de transformación digital con más de 10 años
+      de experiencia creando tecnología y construyendo Negocios Digitales.[
+
+      ](https://servivo-digital-67ac4.netlify.app/pricing/)
     actions:
       - label: Learn More
         url: /features
