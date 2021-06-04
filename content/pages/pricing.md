@@ -1,6 +1,6 @@
 ---
 title: Servicios
-sections:
+sections: Servicios 
   - section_id: pricing
     type: section_pricing
     background: gray
