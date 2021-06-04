@@ -48,7 +48,7 @@ sections:
             url: /signup
             style: primary
       - title: Servicios
-        subtitle: For very large businesses
+        subtitle: para empresas nuevas o en el mercado
         price: Consultoría
         details: |-
           * Vestibulum non eros quis
